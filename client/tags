@@ -1,0 +1,9 @@
+InfoForma	infoforma.py	/^class InfoForma(/
+__init__	infoforma.py	/^  def __init__(/
+formChanged	infoforma.py	/^  def formChanged(/
+infoforma	infoforma.py	1
+manager	infoforma.py	/^  def manager(/
+pathRead	infoforma.py	/^  def pathRead(/
+showParams	infoforma.py	/^  def showParams(/
+typeChange	infoforma.py	/^  def typeChange(/
+typeWidget	infoforma.py	/^  def typeWidget(/
